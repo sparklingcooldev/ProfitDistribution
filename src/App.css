@@ -1,0 +1,9 @@
+.App{
+  font-family: 'Open Sans', sans-serif;
+}
+.ReactModal__Overlay{
+  background-color : transparent!important;
+}
+.MuiSvgIcon-root{
+  font-size: 32px!important;
+}
